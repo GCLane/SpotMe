@@ -1,4 +1,4 @@
-import { User } from "../../entities/User";
+import { User } from "../entities/User";
 
 const testUsers: User[] = [
 	{ email: "grantlane.glane@gmail.com", password: "12345" },
